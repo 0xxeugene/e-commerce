@@ -1,0 +1,46 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Ibuprofen 200mg",
+    "price": 8.99,
+    "description": "Provides fast and temporary relief of minor aches and pains associated with headaches, muscle aches, backaches, toothaches, menstrual cramps, and minor arthritis pain. Also temporarily reduces fever.",
+    "category": "pain-relief",
+    "image": "/images/ibuprofen.jpg",
+    "stock": 120,
+    "rating": 4.8,
+    "reviewsCount": 84
+  },
+  {
+    "id": "prod-2",
+    "name": "Claritin Allergy Relief 24hr",
+    "price": 18.99,
+    "description": "Provides 24-hour, non-drowsy relief of symptoms caused by pollen, mold, dust mites, and pet dander. Temporarily relieves runny nose, sneezing, itchy, watery eyes, and itching of the nose or throat.",
+    "category": "allergy-sinus",
+    "image": "/images/claritin.jpg",
+    "stock": 85,
+    "rating": 4.7,
+    "reviewsCount": 142
+  },
+  {
+    "id": "prod-3",
+    "name": "Daily Multi-Vitamin Plus",
+    "price": 24.50,
+    "description": "A comprehensive formula of essential vitamins and minerals tailored for daily vitality, immune system support, and muscle function. Formulated with high-potency Vitamin C, D3, E, and Zinc.",
+    "category": "vitamins-supplements",
+    "image": "/images/multivitamin.jpg",
+    "stock": 200,
+    "rating": 4.9,
+    "reviewsCount": 65
+  },
+  {
+    "id": "prod-4",
+    "name": "CoQ10 Heart Support 100mg",
+    "price": 29.95,
+    "description": "Supports heart health and cellular energy production. Coenzyme Q10 is a vital antioxidant that helps defend cells against oxidative stress. Ideal for maintaining healthy cardiovascular function.",
+    "category": "heart-health",
+    "image": "/images/coq10.jpg",
+    "stock": 64,
+    "rating": 4.6,
+    "reviewsCount": 38
+  }
+]

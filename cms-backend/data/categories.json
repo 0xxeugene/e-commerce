@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Pain Relief",
+    "slug": "pain-relief"
+  },
+  {
+    "id": "cat-2",
+    "name": "Vitamins & Supplements",
+    "slug": "vitamins-supplements"
+  },
+  {
+    "id": "cat-3",
+    "name": "Allergy & Sinus",
+    "slug": "allergy-sinus"
+  },
+  {
+    "id": "cat-4",
+    "name": "Heart Health",
+    "slug": "heart-health"
+  }
+]
